@@ -1,0 +1,264 @@
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA\MAQUINAS_GRANJA\bin\Debug\MAQUINAS_GRANJA.exe
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA\MAQUINAS_GRANJA\bin\Debug\MAQUINAS_GRANJA.pdb
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Area.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Centro.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Combustible.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Detalle_Factura.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Detalle_M.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Factura.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Fondo.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Genero.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Login.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Mantenimiento.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Maquina.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Properties.Resources.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Proveedores.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Registro.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Revision_Diaria.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Rol.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Tipo_Documento.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Tipo_Mantenimiento.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Trabajo_Maq.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.csproj.GenerateResource.Cache
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.exe
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.pdb
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.csprojResolveAssemblyReference.cache
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\bin\Debug\MAQUINAS_GRANJA.exe
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\bin\Debug\MAQUINAS_GRANJA.pdb
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Area.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Centro.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Combustible.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Detalle_Factura.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Detalle_M.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Factura.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Fondo.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Genero.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Login.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Mantenimiento.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Maquina.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Properties.Resources.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Proveedores.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Registro.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Revision_Diaria.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Rol.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Tipo_Documento.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Tipo_Mantenimiento.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Trabajo_Maq.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.csproj.GenerateResource.Cache
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.exe
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.pdb
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.csprojResolveAssemblyReference.cache
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.menu.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.exe
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.pdb
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Area.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Centro.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Combustible.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Detalle_Factura.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Detalle_M.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Factura.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Fondo.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Genero.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Login.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Mantenimiento.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Maquina.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.menu.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Properties.Resources.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Proveedores.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Registro.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Revision_Diaria.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Rol.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Tipo_Documento.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Tipo_Mantenimiento.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Trabajo_Maq.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\bin\Debug\MAQUINAS_GRANJA.exe
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\bin\Debug\MAQUINAS_GRANJA.pdb
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJA2\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Empresa.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\bin\Debug\MAQUINAS_GRANJA.exe
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\bin\Debug\MAQUINAS_GRANJA.pdb
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Area.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Centro.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Combustible.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Detalle_Factura.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Detalle_M.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Empresa.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Factura.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Fondo.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Genero.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Login.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Mantenimiento.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Maquina.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.menu.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Properties.Resources.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Proveedores.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Registro.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Revision_Diaria.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Rol.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Tipo_Documento.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Tipo_Mantenimiento.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Trabajo_Maq.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.csproj.GenerateResource.Cache
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.exe
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.pdb
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJA3\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.csprojResolveAssemblyReference.cache
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\bin\Debug\MAQUINAS_GRANJA.exe
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\bin\Debug\MAQUINAS_GRANJA.pdb
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Area.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Centro.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Combustible.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Detalle_Factura.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Detalle_M.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Empresa.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Factura.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Fondo.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Genero.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Login.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Mantenimiento.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Maquina.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.menu.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Properties.Resources.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Proveedores.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Registro.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Revision_Diaria.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Rol.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Tipo_Documento.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Tipo_Mantenimiento.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Trabajo_Maq.resources
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.csproj.GenerateResource.Cache
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.exe
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.pdb
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.csprojResolveAssemblyReference.cache
+C:\Users\mega pc\Documents\Visual Studio 2010\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\bin\Debug\MySql.Data.dll
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\bin\Debug\MAQUINAS_GRANJA.exe
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\bin\Debug\MAQUINAS_GRANJA.pdb
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Area.resources
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Centro.resources
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Combustible.resources
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Detalle_Factura.resources
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Detalle_M.resources
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Factura.resources
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Fondo.resources
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Genero.resources
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Login.resources
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Mantenimiento.resources
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Maquina.resources
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.menu.resources
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Properties.Resources.resources
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Proveedores.resources
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Regional.resources
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Registro.resources
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Revision_Diaria.resources
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Rol.resources
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Tipo_Documento.resources
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Tipo_Mantenimiento.resources
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Horas_Maq.resources
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.exe
+D:\yurany\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.pdb
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Area.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Centro.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Combustible.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Detalle_Factura.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Detalle_M.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Factura.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Fondo.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Genero.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Login.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Mantenimiento.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Maquina.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.menu.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Properties.Resources.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Proveedores.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Regional.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Registro.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Revision_Diaria.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Rol.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Tipo_Documento.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Tipo_Mantenimiento.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Horas_Maq.resources
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\bin\Debug\MAQUINAS_GRANJA.exe
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\bin\Debug\MAQUINAS_GRANJA.pdb
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.exe
+C:\Users\APRENDIZ.POPDFPCTE7F742\Documents\Visual Studio 2010\Projects\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.pdb
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Area.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Centro.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Factura.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Fondo.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Genero.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Login.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.menu.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Properties.Resources.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Proveedores.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Regional.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Registro.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Rol.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Tipo_Documento.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.csproj.GenerateResource.Cache
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\bin\Debug\MAQUINAS_GRANJA.exe
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\bin\Debug\MAQUINAS_GRANJA.pdb
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\bin\Debug\MySql.Data.dll
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.exe
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJ4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.pdb
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\bin\Debug\MAQUINAS_GRANJA.exe
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\bin\Debug\MAQUINAS_GRANJA.pdb
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Area.resources
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Centro.resources
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Fondo.resources
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Genero.resources
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Login.resources
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.menu.resources
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Properties.Resources.resources
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Recuperar_Cuenta.resources
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Regional.resources
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Registro.resources
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Rol.resources
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Tipo_Documento.resources
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.csproj.GenerateResource.Cache
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.exe
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.pdb
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Factura.resources
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Proveedores.resources
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Tipo_mantenimiento.resources
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Detalle_matenimiento.resources
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.combustible.resources
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Horas_maquina.resources
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Mantenimiento.resources
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Maquinas.resources
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\ProyectoSIM.Revision_diaria.resources
+D:\visual\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.csprojResolveAssemblyReference.cache
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\bin\Debug\MAQUINAS_GRANJA.exe
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\bin\Debug\MAQUINAS_GRANJA.pdb
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\bin\Debug\MySql.Data.dll
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Area.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Centro.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.combustible.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Detalle_matenimiento.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Factura.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Fondo.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Genero.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Horas_maquina.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Login.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Mantenimiento.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Maquinas.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.menu.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Properties.Resources.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Proveedores.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Recuperar_Cuenta.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Regional.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Registro.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\ProyectoSIM.Revision_diaria.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Rol.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Tipo_mantenimiento.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.Tipo_Documento.resources
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.csproj.GenerateResource.Cache
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.exe
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.pdb
+C:\Users\mega pc\Documents\Visual Studio 2015\Projects\MAQUINAS_GRANJPROYECTO4\MAQUINAS_GRANJA\obj\x86\Debug\MAQUINAS_GRANJA.csprojResolveAssemblyReference.cache
